@@ -12,9 +12,9 @@
 
 ### 🚀 About Me
 
-* 🇧🇩 Frontend Developer from Bangladesh
+* 🇧🇩 MERN Stack Developer from Bangladesh
 * 💻 I build modern, responsive & user-friendly web apps
-* 🌱 Currently learning **React.js & Next.js**
+* 🌱 Currently learning **Next.js & Mongodb**
 * 🎯 Goal: Become a professional developer & work remotely
 
 ---
