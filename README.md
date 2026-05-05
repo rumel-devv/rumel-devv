@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rumel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+Learner;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&lines=MERN+Stack+Developer;React+%7C+Next.js+Learner;Building+Modern+Web+Apps" />
 </p>
 
 ---
@@ -61,7 +61,6 @@ console.log("Welcome to my profile 🚀");
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rumel-devv&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rumel-devv&theme=tokyonight" />
 </p>
 
